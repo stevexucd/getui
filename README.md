@@ -10,7 +10,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist stevexu/yii2-getui "*"
+php composer.phar require --prefer-dist stevexu/getui "*"
 ```
 
 or add
@@ -37,4 +37,5 @@ add to config file in component section:
     	],
 ```
 ```php
-\Yii::$app->getui->run();```
+\Yii::$app->getui->run();
+```
