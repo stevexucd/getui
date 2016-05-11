@@ -1,0 +1,21 @@
+{
+    "name": "stevexu/yii2-getui",
+    "description": "GeTui extensions",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "steve xu",
+            "email": "steve.xu@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "yiisoft\\getui\\": ""
+        }
+    }
+}
