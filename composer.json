@@ -1,5 +1,5 @@
 {
-    "name": "stevexu/yii2-getui",
+    "name": "stevexu/getui",
     "description": "GeTui extensions",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "yiisoft\\getui\\": ""
+            "stevexu\\getui\\": ""
         }
     }
 }
