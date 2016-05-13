@@ -3,6 +3,7 @@
     "description": "GeTui extensions",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
+    "homepage": "https://github.com/stevexucd/getui",
     "license": "Apache-2.0",
     "authors": [
         {
